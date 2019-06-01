@@ -5,10 +5,37 @@
   .App-header {
     background-color: #ffffff;
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: #485550;
+    height: auto;
+  }
+
+  .Header-block {
+    background-color: #F7F7F7;
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: #485550;
+    height: 45vh;
+  }
+
+  .logo{
+    background-image: url('../../Resources/Logo/logo.gif');
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .banner{
+    background-image: url('../../Resources/Gifs/mainLanding.gif');
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .Intro-text{
+    top: -20vh;
+  }
+
+  .Intro-text p{
   }
