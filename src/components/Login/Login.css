@@ -1,0 +1,11 @@
+.login-contain{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.login-form{
+    margin: auto 40%;
+}

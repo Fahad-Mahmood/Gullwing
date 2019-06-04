@@ -4,7 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Landing from './Landing/landing';
 import Sidebar from './sidebar/sidebar';
-import Login from './Login';
+import Login from './Login/Login';
 
 function App() {
   return (
