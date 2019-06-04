@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Header from '../Header/header';
+import Sidebar from '../sidebar/sidebar';
 import './landing.css';
 import { Container, Col, Row } from 'reactstrap';
 
