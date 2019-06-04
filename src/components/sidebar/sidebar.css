@@ -24,7 +24,6 @@ ul li {
     
 }
 .course-body{
-    background-image: url('../../Resources/Logo/logo.gif');
     background-attachment: fixed;
     justify-content: center;
     min-height: 100vh;
